@@ -1,2 +1,2 @@
 # History
- History notes on the Obsidian software
+ History notes with the Obsidian software
